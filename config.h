@@ -5,7 +5,7 @@
 
 const Block blocks[] = {
 	{"capslock", 0, 5},
-	{"xbpsupdates.sh", 1200, 3},
+	{"xbpsupdates.sh", 60, 3},
 	{"disk.sh", 15, 0},
 	{"memory.sh", 5, 0},
 	{"swap.sh", 5, 0},
