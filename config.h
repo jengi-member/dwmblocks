@@ -9,7 +9,6 @@ const Block blocks[] = {
 	{"disk.sh", 15, 0},
 	{"memory.sh", 5, 0},
 	{"swap.sh", 5, 0},
-	{"temperature.sh",   5,  0},
 	{"internet.sh", 5, 0},
 	{"volume.sh",  0,  1},
 	{"brightness", 0,  6},
